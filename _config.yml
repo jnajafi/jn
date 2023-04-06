@@ -1,5 +1,29 @@
-theme: jekyll-theme-minimal
-title: Javad Najafi
-description: 
-logo: https://media.licdn.com/dms/image/C5603AQFJYlsHsX0rIA/profile-displayphoto-shrink_200_200/0/1641760252833?e=1686182400&v=beta&t=Vr9AvyJIEKKK8d6j0r_J2gkp25dqadMLdtnBR1NZREI
+theme         : jekyll-theme-minimal
+title         : Javad Najafi
+description   : 
+logo          : https://media.licdn.com/dms/image/C5603AQFJYlsHsX0rIA/profile-displayphoto-shrink_200_200/0/1641760252833?e=1686182400&v=beta&t=Vr9AvyJIEKKK8d6j0r_J2gkp25dqadMLdtnBR1NZREI
 show_downloads: false
+
+
+url            : https://jnajafi.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+orcid          : "http://orcid.org/yourorcidurl"
+
+
+  # _publications
+  - scope:
+      path: ""
+      type: publications
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _research
+  - scope:
+      path: ""
+      type: portfolio
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comment: true
