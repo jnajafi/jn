@@ -1,5 +1,7 @@
 theme         : jekyll-theme-minimal
-title         : Javad Najafi
+title         : 
+name          : Javad Najafi
+bio           : "Welcome to my page"
 description   : 
 logo          : https://media.licdn.com/dms/image/C5603AQFJYlsHsX0rIA/profile-displayphoto-shrink_200_200/0/1641760252833?e=1686182400&v=beta&t=Vr9AvyJIEKKK8d6j0r_J2gkp25dqadMLdtnBR1NZREI
 show_downloads: false
